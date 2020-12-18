@@ -7,4 +7,6 @@ AAIC Notes
 
 - [x] Linear Algebra
 
+- [x] Probability and Statistics
+
 Made with Xournal++
