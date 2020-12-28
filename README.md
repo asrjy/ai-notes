@@ -9,4 +9,4 @@ AAIC Notes
 
 - [x] Probability and Statistics
 
-Made with Xournal++
+Made with Xournal++, Inkodo
