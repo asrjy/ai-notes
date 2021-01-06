@@ -11,4 +11,6 @@ AAIC Notes
 
 - [x] Dimensionality Reduction and Visualization
 
+- [x] Principal Component Analysis
+
 Made with Xournal++, Inkodo
