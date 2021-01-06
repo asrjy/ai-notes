@@ -9,4 +9,6 @@ AAIC Notes
 
 - [x] Probability and Statistics
 
+- [x] Dimensionality Reduction and Visualization
+
 Made with Xournal++, Inkodo
