@@ -13,4 +13,6 @@ AAIC Notes
 
 - [x] Principal Component Analysis
 
+- [x] T-distributed Stochastic Neighborhood Embedding (t-SNE)
+
 Made with Xournal++, Inkodo
