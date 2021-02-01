@@ -15,4 +15,6 @@ AAIC Notes
 
 - [x] T-distributed Stochastic Neighborhood Embedding (t-SNE)
 
+- [x] Amazon Fine Food Reviews
+
 Made with Xournal++, Inkodo
