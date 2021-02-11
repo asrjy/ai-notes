@@ -1,4 +1,7 @@
 # ai-notes
+
+# Quit working on this project for now. Switched to pen and paper :(
+
 AAIC Notes
 
 - [x] SQL
