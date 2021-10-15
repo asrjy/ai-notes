@@ -1,7 +1,5 @@
 # ai-notes
 
-# Quit working on this project for now. Switched to pen and paper :(
-
 AAIC Notes
 
 - [x] SQL
@@ -19,5 +17,10 @@ AAIC Notes
 - [x] T-distributed Stochastic Neighborhood Embedding (t-SNE)
 
 - [x] Amazon Fine Food Reviews
+
+- [X] Classification and Regression Models
+
+- [X] Deep Learning: Neural Networks
+
 
 Made with Xournal++, Inkodo
