@@ -2,6 +2,8 @@
 
 AAIC Notes
 
+## Notes-Combined.pdf is the up to date version with both digital and handwritten versions, bookmarked. 
+
 - [x] SQL
 
 - [x] Plotting for Exploratory Data Analysis
